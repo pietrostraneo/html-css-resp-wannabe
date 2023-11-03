@@ -16,3 +16,4 @@ Consigli: Apriamo le slide e usiamole come guida per il lavoro, aggiungiamo semp
 Fate attenzione: a volte l'inspector di Chrome può dare qualche problema con le mediaquery, controllate il lavoro anche con l'inspector di Firefox.
 
 Buon lavoro e buon weekend!
+ESERCIZIO CONSEGNATO.
